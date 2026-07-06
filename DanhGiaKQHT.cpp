@@ -255,3 +255,5 @@ int main (){
     cout << "\n==> DA LUU DU LIEU VAO FILE KetQuaHocTap.txt!" << endl;
 	return 0;
 }
+
+/* CHUAN BI UPDATE LAI LOGIC ^^*/
